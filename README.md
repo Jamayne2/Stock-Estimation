@@ -16,7 +16,7 @@ This project builds a machine learning model to estimate future stock prices usi
 
 - Python
 - Pandas & Numpy - data manipulation
-- Matplotlib & Seaborn - visualizations
+- Matplotlib- visualizations
 - Scikit-learn - model training 
 - Keras - neural network 
 - Yfinance - retrieving stock data
