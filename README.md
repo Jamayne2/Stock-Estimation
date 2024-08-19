@@ -25,6 +25,6 @@ This project builds a machine learning model to estimate future stock prices usi
 
 To get predictions:
 ```
-python stock_predictor.py
+python app.py
 ```
 
